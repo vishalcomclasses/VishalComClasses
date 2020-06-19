@@ -5,16 +5,14 @@
     scroll-behavior: smooth;
 }
 
-.leading-relaxed a {
-    padding: 8px 15px;
-    background-color: #18105c !important;
-    font-weight: 500;
-
-    color: white;
-    margin: 10px;
-    border-radius: 3px;
-    text-decoration: none;
-
+#home a {
+  padding: 8px 15px !important;
+  background-color: #18105c !important;
+  font-weight: 500;
+  color: white;
+  margin: 5px;
+  border-radius: 3px;
+  text-decoration: none;
 }
 
 .navbar-main {
